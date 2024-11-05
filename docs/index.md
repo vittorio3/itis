@@ -4,8 +4,9 @@
 
 <br>
 <br>
+<br>
 
-# **What is Cloud Computing?**
+ **What is Cloud Computing?**
 
 ---
 
@@ -19,8 +20,9 @@
 
 <br>
 <br>
+<br>
 
-# **Cloud Service Models**
+ **Cloud Service Models**
 
 ---
 
@@ -33,8 +35,9 @@
 
 <br>
 <br>
+<br>
 
-# **IaaS - Infrastructure as a Service**
+ **IaaS - Infrastructure as a Service**
 
 ---
 
@@ -47,8 +50,9 @@
 
 <br>
 <br>
+<br>
 
-# **PaaS - Platform as a Service**
+ **PaaS - Platform as a Service**
 
 ---
 
@@ -61,8 +65,9 @@
 
 <br>
 <br>
+<br>
 
-# **SaaS - Software as a Service**
+ **SaaS - Software as a Service**
 
 ---
 
@@ -73,16 +78,15 @@
   - Accessible from any device with internet.
   - Reduces need for software installation and maintenance.
 
----
-
 <br>
 
 <img src="media/aas.jpg" alt="aas" width="100%"/>
 
 <br>
 <br>
+<br>
 
-# **Cloud Deployment Models**
+ **Cloud Deployment Models**
 
 ---
 
@@ -96,8 +100,9 @@
 
 <br>
 <br>
+<br>
 
-# **Private Cloud**
+ **Private Cloud**
 
 ---
 
@@ -111,8 +116,9 @@
 
 <br>
 <br>
+<br>
 
-# **Public Cloud**
+ **Public Cloud**
 
 ---
 
@@ -126,8 +132,9 @@
 
 <br>
 <br>
+<br>
 
-# **Hybrid Cloud**
+ **Hybrid Cloud**
 
 ---
 
@@ -141,8 +148,9 @@
 
 <br>
 <br>
+<br>
 
-# **Content Delivery Network (CDN)**
+ **Content Delivery Network (CDN)**
 
 ---
 
@@ -163,8 +171,9 @@
 
 <br>
 <br>
+<br>
 
-# **Data Centers and Virtualization**
+ **Data Centers and Virtualization**
 
 ---
 
@@ -177,16 +186,15 @@
   - Abstracts physical resources into virtual machines (VMs).
   - Enables efficient resource allocation and scalability.
 
----
-
 <br>
 
 <img src="media/virt.png" alt="virt" width="100%"/>
 
 <br>
 <br>
+<br>
 
-# **Virtual Machines (VMs)**
+ **Virtual Machines (VMs)**
 
 ---
 
@@ -200,8 +208,9 @@
 
 <br>
 <br>
+<br>
 
-# **Containers**
+ **Containers**
 
 ---
 
@@ -216,8 +225,9 @@
 
 <br>
 <br>
+<br>
 
-# **Container Orchestration with Kubernetes**
+ **Container Orchestration with Kubernetes**
 
 ---
 
@@ -231,8 +241,9 @@
 
 <br>
 <br>
+<br>
 
-# **Types of Cloud Storage**
+ **Types of Cloud Storage**
 
 ---
 
@@ -247,8 +258,9 @@
 
 <br>
 <br>
+<br>
 
-# **Cloud Storage Cost Considerations**
+ **Cloud Storage Cost Considerations**
 
 ---
 
@@ -261,8 +273,9 @@
 
 <br>
 <br>
+<br>
 
-# **SQL vs. NoSQL Databases**
+ **SQL vs. NoSQL Databases**
 
 ---
 
@@ -275,8 +288,9 @@
 
 <br>
 <br>
+<br>
 
-# **Managed Database Services**
+ **Managed Database Services**
 
 ---
 
@@ -290,8 +304,9 @@
 
 <br>
 <br>
+<br>
 
-# **Virtual Machines in the Cloud**
+ **Virtual Machines in the Cloud**
 
 ---
 
@@ -302,8 +317,9 @@
 
 <br>
 <br>
+<br>
 
-# **Autoscaling and Load Balancing**
+ **Autoscaling and Load Balancing**
 
 ---
 
@@ -315,8 +331,9 @@
 
 <br>
 <br>
+<br>
 
-# **Virtual Private Cloud (VPC)**
+ **Virtual Private Cloud (VPC)**
 
 ---
 
@@ -327,8 +344,9 @@
 
 <br>
 <br>
+<br>
 
-# **Security Essentials**
+ **Security Essentials**
 
 ---
 
@@ -340,8 +358,9 @@
 
 <br>
 <br>
+<br>
 
-# **Data Security**
+ **Data Security**
 
 ---
 
@@ -352,8 +371,9 @@
 
 <br>
 <br>
+<br>
 
-# **Compliance Standards**
+ **Compliance Standards**
 
 ---
 
@@ -364,8 +384,9 @@
 
 <br>
 <br>
+<br>
 
-# **CI/CD in the Cloud**
+ **CI/CD in the Cloud**
 
 ---
 
@@ -377,8 +398,9 @@
 
 <br>
 <br>
+<br>
 
-# **Infrastructure as Code (IaC)**
+ **Infrastructure as Code (IaC)**
 
 ---
 
