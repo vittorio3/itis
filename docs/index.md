@@ -48,7 +48,7 @@
 
 ---
 
-![aas](media/aas.jpg =x250)
+![aas](media/aas.jpg)
 
 ---
 
@@ -103,7 +103,7 @@
 
 ---
 
-![virt](media/virt.png =x250)
+![virt](media/virt.png)
 
 ---
 
@@ -118,7 +118,7 @@
 
 ---
 
-![virt](media/virt.png =x250)
+![virt](media/virt.png)
 
 ---
 
