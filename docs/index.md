@@ -6,7 +6,7 @@
 <br>
 <br>
 
-### **What is Cloud Computing?**
+# **What is Cloud Computing?**
 
 ---
 
@@ -22,7 +22,7 @@
 <br>
 <br>
 
-### **Cloud Service Models**
+# **Cloud Service Models**
 
 ---
 
@@ -37,7 +37,7 @@
 <br>
 <br>
 
-### **IaaS - Infrastructure as a Service**
+# **IaaS - Infrastructure as a Service**
 
 ---
 
@@ -52,7 +52,7 @@
 <br>
 <br>
 
-### **PaaS - Platform as a Service**
+# **PaaS - Platform as a Service**
 
 ---
 
@@ -67,7 +67,7 @@
 <br>
 <br>
 
-### **SaaS - Software as a Service**
+# **SaaS - Software as a Service**
 
 ---
 
@@ -86,7 +86,7 @@
 <br>
 <br>
 
-### **Cloud Deployment Models**
+# **Cloud Deployment Models**
 
 ---
 
@@ -102,7 +102,7 @@
 <br>
 <br>
 
-### **Private Cloud**
+# **Private Cloud**
 
 ---
 
@@ -118,7 +118,7 @@
 <br>
 <br>
 
-### **Public Cloud**
+# **Public Cloud**
 
 ---
 
@@ -134,7 +134,7 @@
 <br>
 <br>
 
-### **Hybrid Cloud**
+# **Hybrid Cloud**
 
 ---
 
@@ -150,7 +150,7 @@
 <br>
 <br>
 
-### **Content Delivery Network (CDN)**
+# **Content Delivery Network (CDN)**
 
 ---
 
@@ -173,7 +173,7 @@
 <br>
 <br>
 
-### **Data Centers and Virtualization**
+# **Data Centers and Virtualization**
 
 ---
 
@@ -194,7 +194,7 @@
 <br>
 <br>
 
-### **Virtual Machines (VMs)**
+# **Virtual Machines (VMs)**
 
 ---
 
@@ -210,7 +210,7 @@
 <br>
 <br>
 
-### **Containers**
+# **Containers**
 
 ---
 
@@ -227,7 +227,7 @@
 <br>
 <br>
 
-### **Container Orchestration with Kubernetes**
+# **Container Orchestration with Kubernetes**
 
 ---
 
@@ -243,7 +243,7 @@
 <br>
 <br>
 
-### **Types of Cloud Storage**
+# **Types of Cloud Storage**
 
 ---
 
@@ -260,7 +260,7 @@
 <br>
 <br>
 
-### **Cloud Storage Cost Considerations**
+# **Cloud Storage Cost Considerations**
 
 ---
 
@@ -275,7 +275,7 @@
 <br>
 <br>
 
-### **SQL vs. NoSQL Databases**
+# **SQL vs. NoSQL Databases**
 
 ---
 
@@ -290,7 +290,7 @@
 <br>
 <br>
 
-### **Managed Database Services**
+# **Managed Database Services**
 
 ---
 
@@ -306,7 +306,7 @@
 <br>
 <br>
 
-### **Virtual Machines in the Cloud**
+# **Virtual Machines in the Cloud**
 
 ---
 
@@ -319,7 +319,7 @@
 <br>
 <br>
 
-### **Autoscaling and Load Balancing**
+# **Autoscaling and Load Balancing**
 
 ---
 
@@ -333,7 +333,7 @@
 <br>
 <br>
 
-### **Virtual Private Cloud (VPC)**
+# **Virtual Private Cloud (VPC)**
 
 ---
 
@@ -346,7 +346,7 @@
 <br>
 <br>
 
-### **Security Essentials**
+# **Security Essentials**
 
 ---
 
@@ -360,7 +360,7 @@
 <br>
 <br>
 
-### **Data Security**
+# **Data Security**
 
 ---
 
@@ -373,7 +373,7 @@
 <br>
 <br>
 
-### **Compliance Standards**
+# **Compliance Standards**
 
 ---
 
@@ -386,7 +386,7 @@
 <br>
 <br>
 
-### **CI/CD in the Cloud**
+# **CI/CD in the Cloud**
 
 ---
 
@@ -400,7 +400,7 @@
 <br>
 <br>
 
-### **Infrastructure as Code (IaC)**
+# **Infrastructure as Code (IaC)**
 
 ---
 
