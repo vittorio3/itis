@@ -19,6 +19,8 @@
   - **PaaS** (Platform as a Service)
   - **SaaS** (Software as a Service)
 
+![aas](media/aas.png)
+
 ---
 
 ### **IaaS - Infrastructure as a Service**
