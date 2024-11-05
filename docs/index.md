@@ -1,4 +1,9 @@
 
+![cloud](media/cloud.jpg)
+
+
+* * *
+
 
 # **What is Cloud Computing?**
 ---
