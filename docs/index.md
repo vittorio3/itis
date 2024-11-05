@@ -2,8 +2,6 @@
     <img src="media/cloud.png" alt="cloud" width="75%"/>
 </p>
 
----
-
 <br>
 
 ## **What is Cloud Computing?**
@@ -18,8 +16,6 @@
   - **Scalability**: Services can scale up or down based on demand.
   - **Remote Access**: Resources are accessible from anywhere with an internet connection.
 
----
-
 <br>
 
 ## **Cloud Service Models**
@@ -32,8 +28,6 @@
   - **IaaS** (Infrastructure as a Service)
   - **PaaS** (Platform as a Service)
   - **SaaS** (Software as a Service)
-
----
 
 <br>
 
@@ -48,8 +42,6 @@
   - Access to servers, storage, and networks.
   - High control over the infrastructure.
 
----
-
 <br>
 
 ## **PaaS - Platform as a Service**
@@ -62,8 +54,6 @@
 - **Features**:
   - Simplifies app development with built-in infrastructure management.
   - Offers tools for collaborative development and testing.
-
----
 
 <br>
 
@@ -84,8 +74,6 @@
 
 <img src="media/aas.jpg" alt="aas" width="100%"/>
 
----
-
 <br>
 
 ## **Cloud Deployment Models**
@@ -99,8 +87,6 @@
   - **Public Cloud**
   - **Private Cloud**
   - **Hybrid Cloud**
-
----
 
 <br>
 
@@ -116,8 +102,6 @@
   - Often hosted on-premises or with a private provider.
 - **Examples**: IBM Cloud Private, VMware Private Cloud.
 
----
-
 <br>
 
 ## **Public Cloud**
@@ -132,8 +116,6 @@
   - Managed by third-party providers.
 - **Examples**: Amazon Web Services (AWS), Google Cloud, Microsoft Azure.
 
----
-
 <br>
 
 ## **Hybrid Cloud**
@@ -147,8 +129,6 @@
   - Flexibility to run workloads across different environments.
   - Balances cost efficiency and control.
 - **Examples**: AWS Outposts, Azure Arc.
-
----
 
 <br>
 
@@ -171,8 +151,6 @@
 
 <img src="media/cdn.png" alt="cdn" width="100%"/>
 
----
-
 <br>
 
 ## **Data Centers and Virtualization**
@@ -194,8 +172,6 @@
 
 <img src="media/virt.png" alt="virt" width="100%"/>
 
----
-
 <br>
 
 ## **Virtual Machines (VMs)**
@@ -209,8 +185,6 @@
   - Isolated operating system instances.
   - Full control over configuration and resource allocation.
 - **Use Case**: Ideal for running traditional applications and full-stack environments.
-
----
 
 <br>
 
@@ -227,8 +201,6 @@
 - **Tools**: Docker (for creating containers).
 - **Use Case**: Cloud-native applications requiring high portability.
 
----
-
 <br>
 
 ## **Container Orchestration with Kubernetes**
@@ -242,8 +214,6 @@
   - Manages containerized applications across multiple hosts.
   - Enables easy scaling, load balancing, and updates.
 - **Use Case**: Microservices-based applications and scalable deployments.
-
----
 
 <br>
 
@@ -260,8 +230,6 @@
 - **Block Storage**: Low-latency storage for VMs (e.g., Amazon EBS).
   - **Best for**: Databases, transactional applications.
 
----
-
 <br>
 
 ## **Cloud Storage Cost Considerations**
@@ -275,8 +243,6 @@
   - **Data Transfer**: Charges for data moved between regions.
   - **Access Frequency**: Different costs for hot (frequent access) vs. cold (rare access) storage.
 
----
-
 <br>
 
 ## **SQL vs. NoSQL Databases**
@@ -289,8 +255,6 @@
   - **Best for**: Relational data, complex queries, financial data.
 - **NoSQL Databases**: Unstructured or semi-structured data (e.g., MongoDB, DynamoDB).
   - **Best for**: Real-time data, IoT, and dynamic schema requirements.
-
----
 
 <br>
 
@@ -306,8 +270,6 @@
   - Security and compliance features.
 - **Examples**: Amazon RDS, Google Firestore, Azure Cosmos DB.
 
----
-
 <br>
 
 ## **Virtual Machines in the Cloud**
@@ -318,8 +280,6 @@
 
 - **Cloud VMs**: AWS EC2, Azure VMs, GCP Compute Engine.
 - **Configuration Options**: CPU, RAM, storage, network configurations.
-
----
 
 <br>
 
@@ -333,8 +293,6 @@
 - **Load Balancing**: Distributes traffic across multiple instances.
 - **Benefits**: Ensures reliability, optimizes cost.
 
----
-
 <br>
 
 ## **Virtual Private Cloud (VPC)**
@@ -345,8 +303,6 @@
 
 - **Definition**: Isolated virtual network in the cloud.
 - **Components**: Subnets, IP ranges, gateways.
-
----
 
 <br>
 
@@ -360,8 +316,6 @@
 - **Security Groups**: Define access permissions for instances.
 - **Best Practices**: Regular audits, use of encryption.
 
----
-
 <br>
 
 ## **Data Security**
@@ -372,8 +326,6 @@
 
 - **Encryption**: At rest and in transit.
 - **Identity Access Management (IAM)**: Control access based on roles and permissions.
-
----
 
 <br>
 
@@ -386,8 +338,6 @@
 - **GDPR**: Data privacy regulations in the EU.
 - **HIPAA**: Healthcare data regulations in the U.S.
 
----
-
 <br>
 
 ## **CI/CD in the Cloud**
@@ -399,8 +349,6 @@
 - **CI/CD Pipelines**: Automates testing and deployment.
 - **Benefits**: Faster releases, fewer errors.
 - **Examples**: AWS CodePipeline, GitHub Actions.
-
----
 
 <br>
 
