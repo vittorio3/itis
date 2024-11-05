@@ -1,5 +1,6 @@
-
-<img src="media/cloud.png" alt="cloud" width="100%"/>
+<p align="center">
+    <img src="media/cloud.png" alt="cloud" width="75%"/>
+</p>
 
 ---
 
