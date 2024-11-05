@@ -1,6 +1,6 @@
 
 
-### **What is Cloud Computing?**
+# **What is Cloud Computing?**
 ---
 
 - **Definition**: Cloud computing is the delivery of computing services—such as servers, storage, databases, networking, software, and more—over the internet (“the cloud”).
@@ -13,7 +13,7 @@
 * * *
 
 
-### **Cloud Service Models**
+# **Cloud Service Models**
 ---
 
 - **Objective**: Understand the three primary service models in cloud computing.
@@ -26,7 +26,7 @@
 * * *
 
 
-### **IaaS - Infrastructure as a Service**
+# **IaaS - Infrastructure as a Service**
 ---
 
 - **Definition**: IaaS provides virtualized computing resources over the internet.
@@ -38,7 +38,7 @@
 * * *
 
 
-### **PaaS - Platform as a Service**
+# **PaaS - Platform as a Service**
 ---
 
 - **Definition**: PaaS provides a framework for developers to build, test, and deploy applications.
@@ -50,7 +50,7 @@
 * * *
 
 
-### **SaaS - Software as a Service**
+# **SaaS - Software as a Service**
 ---
 
 - **Definition**: SaaS delivers software applications over the internet on a subscription basis.
@@ -68,7 +68,7 @@
 * * *
 
 
-### **Cloud Deployment Models**
+# **Cloud Deployment Models**
 ---
 
 - **Objective**: Understand the deployment options in cloud computing.
@@ -81,7 +81,7 @@
 * * *
 
 
-### **Private Cloud**
+# **Private Cloud**
 ---
 
 - **Definition**: Exclusive infrastructure dedicated to a single organization.
@@ -94,7 +94,7 @@
 * * *
 
 
-### **Public Cloud**
+# **Public Cloud**
 ---
 
 - **Definition**: Services are delivered over the internet and shared among multiple customers.
@@ -107,7 +107,7 @@
 * * *
 
 
-### **Hybrid Cloud**
+# **Hybrid Cloud**
 ---
 
 - **Definition**: A combination of public and private cloud resources.
@@ -120,7 +120,7 @@
 * * *
 
 
-### **Content Delivery Network (CDN)**
+# **Content Delivery Network (CDN)**
 ---
 
 - **Definition**: A network of servers that deliver content based on user location.
@@ -140,7 +140,7 @@
 * * *
 
 
-### **Data Centers and Virtualization**
+# **Data Centers and Virtualization**
 ---
 
 - **Data Centers**:
@@ -160,7 +160,7 @@
 * * *
 
 
-### **Virtual Machines (VMs)**
+# **Virtual Machines (VMs)**
 ---
 
 - **Definition**: Software emulations of physical computers, running on a host machine.
@@ -173,7 +173,7 @@
 * * *
 
 
-### **Containers**
+# **Containers**
 ---
 
 - **Definition**: Lightweight, standalone packages of code and dependencies.
@@ -187,7 +187,7 @@
 * * *
 
 
-### **Container Orchestration with Kubernetes**
+# **Container Orchestration with Kubernetes**
 ---
 
 - **Definition**: Kubernetes automates the deployment, scaling, and management of containers.
@@ -200,7 +200,7 @@
 * * *
 
 
-### **Types of Cloud Storage**
+# **Types of Cloud Storage**
 ---
 
 - **Object Storage**: Stores data as objects (e.g., AWS S3).
@@ -214,7 +214,7 @@
 * * *
 
 
-### **Cloud Storage Cost Considerations**
+# **Cloud Storage Cost Considerations**
 ---
 
 - **Cost Factors**:
@@ -226,7 +226,7 @@
 * * *
 
 
-### **SQL vs. NoSQL Databases**
+# **SQL vs. NoSQL Databases**
 ---
 
 - **SQL Databases**: Structured data, uses SQL (e.g., Amazon RDS, Azure SQL).
@@ -238,7 +238,7 @@
 * * *
 
 
-### **Managed Database Services**
+# **Managed Database Services**
 ---
 
 - **Definition**: Fully managed databases handled by cloud providers.
@@ -251,7 +251,7 @@
 * * *
 
 
-### **Virtual Machines in the Cloud**
+# **Virtual Machines in the Cloud**
 ---
 
 - **Cloud VMs**: AWS EC2, Azure VMs, GCP Compute Engine.
@@ -261,7 +261,7 @@
 * * *
 
 
-### **Autoscaling and Load Balancing**
+# **Autoscaling and Load Balancing**
 ---
 
 - **Autoscaling**: Automatically adjusts resources based on demand.
@@ -272,7 +272,7 @@
 * * *
 
 
-### **Virtual Private Cloud (VPC)**
+# **Virtual Private Cloud (VPC)**
 ---
 
 - **Definition**: Isolated virtual network in the cloud.
@@ -282,7 +282,7 @@
 * * *
 
 
-### **Security Essentials**
+# **Security Essentials**
 ---
 
 - **Firewalls**: Control inbound and outbound traffic.
@@ -293,7 +293,7 @@
 * * *
 
 
-### **Data Security**
+# **Data Security**
 ---
 
 - **Encryption**: At rest and in transit.
@@ -303,7 +303,7 @@
 * * *
 
 
-### **Compliance Standards**
+# **Compliance Standards**
 ---
 
 - **GDPR**: Data privacy regulations in the EU.
@@ -313,7 +313,7 @@
 * * *
 
 
-### **CI/CD in the Cloud**
+# **CI/CD in the Cloud**
 ---
 
 - **CI/CD Pipelines**: Automates testing and deployment.
@@ -324,7 +324,7 @@
 * * *
 
 
-### **Infrastructure as Code (IaC)**
+# **Infrastructure as Code (IaC)**
 ---
 
 - **Definition**: Managing infrastructure using code.
