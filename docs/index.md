@@ -103,7 +103,7 @@
 
 ---
 
-![virt](media/virt.png)
+![cdn](media/cdn.png)
 
 ---
 
