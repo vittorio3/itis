@@ -1,5 +1,5 @@
 
-<img src="cloud.jpg" alt="cloud" width="100%"/>
+<img src="media/cloud.jpg" alt="cloud" width="100%"/>
 
 
 * * *
