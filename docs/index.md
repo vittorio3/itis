@@ -3,8 +3,9 @@
 </p>
 
 <br>
+<br>
 
-## **What is Cloud Computing?**
+# **What is Cloud Computing?**
 
 ---
 
@@ -17,8 +18,9 @@
   - **Remote Access**: Resources are accessible from anywhere with an internet connection.
 
 <br>
+<br>
 
-## **Cloud Service Models**
+# **Cloud Service Models**
 
 ---
 
@@ -30,8 +32,9 @@
   - **SaaS** (Software as a Service)
 
 <br>
+<br>
 
-## **IaaS - Infrastructure as a Service**
+# **IaaS - Infrastructure as a Service**
 
 ---
 
@@ -43,8 +46,9 @@
   - High control over the infrastructure.
 
 <br>
+<br>
 
-## **PaaS - Platform as a Service**
+# **PaaS - Platform as a Service**
 
 ---
 
@@ -56,8 +60,9 @@
   - Offers tools for collaborative development and testing.
 
 <br>
+<br>
 
-## **SaaS - Software as a Service**
+# **SaaS - Software as a Service**
 
 ---
 
@@ -75,8 +80,9 @@
 <img src="media/aas.jpg" alt="aas" width="100%"/>
 
 <br>
+<br>
 
-## **Cloud Deployment Models**
+# **Cloud Deployment Models**
 
 ---
 
@@ -89,8 +95,9 @@
   - **Hybrid Cloud**
 
 <br>
+<br>
 
-## **Private Cloud**
+# **Private Cloud**
 
 ---
 
@@ -103,8 +110,9 @@
 - **Examples**: IBM Cloud Private, VMware Private Cloud.
 
 <br>
+<br>
 
-## **Public Cloud**
+# **Public Cloud**
 
 ---
 
@@ -117,8 +125,9 @@
 - **Examples**: Amazon Web Services (AWS), Google Cloud, Microsoft Azure.
 
 <br>
+<br>
 
-## **Hybrid Cloud**
+# **Hybrid Cloud**
 
 ---
 
@@ -131,8 +140,9 @@
 - **Examples**: AWS Outposts, Azure Arc.
 
 <br>
+<br>
 
-## **Content Delivery Network (CDN)**
+# **Content Delivery Network (CDN)**
 
 ---
 
@@ -152,8 +162,9 @@
 <img src="media/cdn.png" alt="cdn" width="100%"/>
 
 <br>
+<br>
 
-## **Data Centers and Virtualization**
+# **Data Centers and Virtualization**
 
 ---
 
@@ -173,8 +184,9 @@
 <img src="media/virt.png" alt="virt" width="100%"/>
 
 <br>
+<br>
 
-## **Virtual Machines (VMs)**
+# **Virtual Machines (VMs)**
 
 ---
 
@@ -187,8 +199,9 @@
 - **Use Case**: Ideal for running traditional applications and full-stack environments.
 
 <br>
+<br>
 
-## **Containers**
+# **Containers**
 
 ---
 
@@ -202,8 +215,9 @@
 - **Use Case**: Cloud-native applications requiring high portability.
 
 <br>
+<br>
 
-## **Container Orchestration with Kubernetes**
+# **Container Orchestration with Kubernetes**
 
 ---
 
@@ -216,8 +230,9 @@
 - **Use Case**: Microservices-based applications and scalable deployments.
 
 <br>
+<br>
 
-## **Types of Cloud Storage**
+# **Types of Cloud Storage**
 
 ---
 
@@ -231,8 +246,9 @@
   - **Best for**: Databases, transactional applications.
 
 <br>
+<br>
 
-## **Cloud Storage Cost Considerations**
+# **Cloud Storage Cost Considerations**
 
 ---
 
@@ -244,8 +260,9 @@
   - **Access Frequency**: Different costs for hot (frequent access) vs. cold (rare access) storage.
 
 <br>
+<br>
 
-## **SQL vs. NoSQL Databases**
+# **SQL vs. NoSQL Databases**
 
 ---
 
@@ -257,8 +274,9 @@
   - **Best for**: Real-time data, IoT, and dynamic schema requirements.
 
 <br>
+<br>
 
-## **Managed Database Services**
+# **Managed Database Services**
 
 ---
 
@@ -271,8 +289,9 @@
 - **Examples**: Amazon RDS, Google Firestore, Azure Cosmos DB.
 
 <br>
+<br>
 
-## **Virtual Machines in the Cloud**
+# **Virtual Machines in the Cloud**
 
 ---
 
@@ -282,8 +301,9 @@
 - **Configuration Options**: CPU, RAM, storage, network configurations.
 
 <br>
+<br>
 
-## **Autoscaling and Load Balancing**
+# **Autoscaling and Load Balancing**
 
 ---
 
@@ -294,8 +314,9 @@
 - **Benefits**: Ensures reliability, optimizes cost.
 
 <br>
+<br>
 
-## **Virtual Private Cloud (VPC)**
+# **Virtual Private Cloud (VPC)**
 
 ---
 
@@ -305,8 +326,9 @@
 - **Components**: Subnets, IP ranges, gateways.
 
 <br>
+<br>
 
-## **Security Essentials**
+# **Security Essentials**
 
 ---
 
@@ -317,8 +339,9 @@
 - **Best Practices**: Regular audits, use of encryption.
 
 <br>
+<br>
 
-## **Data Security**
+# **Data Security**
 
 ---
 
@@ -328,8 +351,9 @@
 - **Identity Access Management (IAM)**: Control access based on roles and permissions.
 
 <br>
+<br>
 
-## **Compliance Standards**
+# **Compliance Standards**
 
 ---
 
@@ -339,8 +363,9 @@
 - **HIPAA**: Healthcare data regulations in the U.S.
 
 <br>
+<br>
 
-## **CI/CD in the Cloud**
+# **CI/CD in the Cloud**
 
 ---
 
@@ -351,8 +376,9 @@
 - **Examples**: AWS CodePipeline, GitHub Actions.
 
 <br>
+<br>
 
-## **Infrastructure as Code (IaC)**
+# **Infrastructure as Code (IaC)**
 
 ---
 
