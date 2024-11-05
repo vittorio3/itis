@@ -19,8 +19,6 @@
   - **PaaS** (Platform as a Service)
   - **SaaS** (Software as a Service)
 
-![aas](media/aas.jpg)
-
 ---
 
 ### **IaaS - Infrastructure as a Service**
@@ -47,6 +45,10 @@
 - **Features**:
   - Accessible from any device with internet.
   - Reduces need for software installation and maintenance.
+
+---
+
+![aas](media/aas.jpg)
 
 ---
 
