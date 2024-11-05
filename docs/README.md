@@ -1,5 +1,3 @@
-# Cloud Computing
-
 
 ---
 
