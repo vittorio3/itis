@@ -48,7 +48,7 @@
 
 ---
 
-![aas](media/aas.jpg)
+![aas](media/aas.jpg =x250)
 
 ---
 
@@ -103,6 +103,10 @@
 
 ---
 
+![virt](media/virt.png =x250)
+
+---
+
 ### **Data Centers and Virtualization**
 
 - **Data Centers**:
@@ -111,6 +115,10 @@
 - **Virtualization**:
   - Abstracts physical resources into virtual machines (VMs).
   - Enables efficient resource allocation and scalability.
+
+---
+
+![virt](media/virt.png =x250)
 
 ---
 
