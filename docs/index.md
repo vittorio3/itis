@@ -19,7 +19,7 @@
   - **PaaS** (Platform as a Service)
   - **SaaS** (Software as a Service)
 
-![aas](media/aas.png)
+![aas](media/aas.jpg)
 
 ---
 
