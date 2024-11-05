@@ -1,5 +1,5 @@
 
-![cloud](media/cloud.jpg)
+<img src="cloud.jpg" alt="cloud" width="100%"/>
 
 
 * * *
