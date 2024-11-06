@@ -166,6 +166,7 @@
 - **Data Centers**:
   - Physical facilities that host cloud infrastructure.
   - Use redundancy and failover mechanisms for reliability.
+
 - **Virtualization**:
   - Abstracts physical resources into virtual machines (VMs).
   - Enables efficient resource allocation and scalability.
@@ -262,8 +263,10 @@
 
 - **Object Storage**: Stores data as objects (e.g., AWS S3).
   - **Best for**: Media files, backups, big data analytics.
+
 - **File Storage**: Organizes data as files and folders (e.g., Amazon EFS).
   - **Best for**: Shared storage, legacy applications.
+
 - **Block Storage**: Low-latency storage for VMs (e.g., Amazon EBS).
   - **Best for**: Databases, transactional applications.
 
@@ -294,6 +297,7 @@
 
 - **SQL Databases**: Structured data, uses SQL (e.g., Amazon RDS, Azure SQL).
   - **Best for**: Relational data, complex queries, financial data.
+
 - **NoSQL Databases**: Unstructured or semi-structured data (e.g., MongoDB, DynamoDB).
   - **Best for**: Real-time data, IoT, and dynamic schema requirements.
 
@@ -330,6 +334,10 @@
 - **Autoscaling**: Automatically adjusts resources based on demand.
 - **Load Balancing**: Distributes traffic across multiple instances.
 - **Benefits**: Ensures reliability, optimizes cost.
+
+<br>
+
+<img src="media/lb.jpg" alt="lb" width="100%"/>
 
 <br>
 <br>
@@ -420,6 +428,10 @@
 - **Examples**: AWS CodePipeline, GitHub Actions.
 
 <br>
+
+<img src="media/cicd.jpg" alt="cicd" width="100%"/>
+
+<br>
 <br>
 <br>
 
@@ -432,4 +444,13 @@
 - **Definition**: Managing infrastructure using code.
 - **Tools**: Terraform, AWS CloudFormation.
 - **Benefits**: Consistency, ease of scaling, reproducibility.
+
+<br>
+
+<img src="media/iac.png" alt="iac" width="100%"/>
+
+<br>
+<br>
+<br>
+
 
