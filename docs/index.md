@@ -164,8 +164,6 @@
 - **Examples**: AWS CloudFront, Azure CDN, Cloudflare.
 - **Use Case**: Ideal for websites with global user bases or media-heavy applications.
 
----
-
 <br>
 
 <img src="media/cdn.png" alt="cdn" width="100%"/>
