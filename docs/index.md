@@ -80,6 +80,12 @@
   - Reduces need for software installation and maintenance.
 
 <br>
+<br>
+<br>
+
+---
+
+<br>
 
 <img src="media/aas.jpg" alt="aas" width="100%"/>
 
@@ -215,6 +221,12 @@
 - **Use Case**: Cloud-native applications requiring high portability.
 
 <br>
+<br>
+<br>
+
+---
+
+<br>
 
 <img src="media/containers.png" alt="containers" width="100%"/>
 
@@ -233,6 +245,10 @@
   - Manages containerized applications across multiple hosts.
   - Enables easy scaling, load balancing, and updates.
 - **Use Case**: Microservices-based applications and scalable deployments.
+
+<br>
+
+<img src="media/kube.jpg" alt="kube" width="100%"/>
 
 <br>
 <br>
