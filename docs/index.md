@@ -298,6 +298,10 @@
   - **Best for**: Real-time data, IoT, and dynamic schema requirements.
 
 <br>
+
+<img src="media/sql.png" alt="sql" width="100%"/>
+
+<br>
 <br>
 <br>
 
