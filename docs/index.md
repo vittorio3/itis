@@ -337,7 +337,7 @@
 
 <br>
 
-<img src="media/lb.jpg" alt="lb" width="100%"/>
+<img src="media/lb.png" alt="lb" width="100%"/>
 
 <br>
 <br>
