@@ -13,6 +13,7 @@
 <br>
 
 - **Definition**: Cloud computing is the delivery of computing services—such as servers, storage, databases, networking, software, and more—over the internet (“the cloud”).
+
 - **Key Characteristics**:
   - **On-demand access**: Resources are available whenever needed.
   - **Scalability**: Services can scale up or down based on demand.
