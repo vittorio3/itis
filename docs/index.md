@@ -151,27 +151,6 @@
 <br>
 <br>
 
-# **Content Delivery Network (CDN)**
-
----
-
-<br>
-
-- **Definition**: A network of servers that deliver content based on user location.
-- **Benefits**:
-  - Reduces latency by caching data closer to the user.
-  - Enhances content delivery speed and reliability.
-- **Examples**: AWS CloudFront, Azure CDN, Cloudflare.
-- **Use Case**: Ideal for websites with global user bases or media-heavy applications.
-
-<br>
-
-<img src="media/cdn.png" alt="cdn" width="100%"/>
-
-<br>
-<br>
-<br>
-
 # **Data Centers and Virtualization**
 
 ---
@@ -209,6 +188,19 @@
 <br>
 <br>
 
+# **Virtual Machines in the Cloud**
+
+---
+
+<br>
+
+- **Cloud VMs**: AWS EC2, Azure VMs, GCP Compute Engine.
+- **Configuration Options**: CPU, RAM, storage, network configurations.
+
+<br>
+<br>
+<br>
+
 # **Containers**
 
 ---
@@ -221,6 +213,10 @@
   - Consistent environment across different platforms.
 - **Tools**: Docker (for creating containers).
 - **Use Case**: Cloud-native applications requiring high portability.
+
+<br>
+
+<img src="media/containers.png" alt="containers" width="100%"/>
 
 <br>
 <br>
@@ -305,19 +301,6 @@
 <br>
 <br>
 
-# **Virtual Machines in the Cloud**
-
----
-
-<br>
-
-- **Cloud VMs**: AWS EC2, Azure VMs, GCP Compute Engine.
-- **Configuration Options**: CPU, RAM, storage, network configurations.
-
-<br>
-<br>
-<br>
-
 # **Autoscaling and Load Balancing**
 
 ---
@@ -327,6 +310,27 @@
 - **Autoscaling**: Automatically adjusts resources based on demand.
 - **Load Balancing**: Distributes traffic across multiple instances.
 - **Benefits**: Ensures reliability, optimizes cost.
+
+<br>
+<br>
+<br>
+
+# **Content Delivery Network (CDN)**
+
+---
+
+<br>
+
+- **Definition**: A network of servers that deliver content based on user location.
+- **Benefits**:
+  - Reduces latency by caching data closer to the user.
+  - Enhances content delivery speed and reliability.
+- **Examples**: AWS CloudFront, Azure CDN, Cloudflare.
+- **Use Case**: Ideal for websites with global user bases or media-heavy applications.
+
+<br>
+
+<img src="media/cdn.png" alt="cdn" width="100%"/>
 
 <br>
 <br>
