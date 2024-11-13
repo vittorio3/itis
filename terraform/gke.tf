@@ -32,13 +32,6 @@ locals {
     "roles/file.editor",
     "roles/storage.objectAdmin"
   ]
-  user_roles = [
-    "roles/artifactregistry.reader",
-    "roles/logging.logWriter",
-    "roles/monitoring.metricWriter",
-    "roles/file.editor",
-    "roles/storage.objectAdmin"
-  ]
 }
 
 resource "google_project_iam_member" "member_role" {
