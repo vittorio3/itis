@@ -12,8 +12,3 @@ gcloud auth activate-service-account <sa-email> --key-file=<sa-key> --project it
 gcloud container clusters get-credentials itis --zone europe-west12-a
 ```
 
-
-```
-printf '%s\n' {0..15} | xargs -I {} scp ./alunno-{}.json alunno@<ip>:/key/
-```
-
